@@ -1,0 +1,1 @@
+Files with example code on golang from videocourse "Go: The Complete Developer's Guide (Golang)" by Stephen Grider.
