@@ -1,1 +1,1 @@
-Files with example code on golang from videocourse "Go: The Complete Developer's Guide (Golang)" by Stephen Grider.
+Files with example code from golang courses and books to train myself.
